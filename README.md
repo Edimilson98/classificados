@@ -1,1 +1,1 @@
-aplicação web para fins de estudo desenvolvido em php, utlizando plataforma B7 Web
+aplicação web para fins de estudo desenvolvido em php, utilizando plataforma B7 Web
